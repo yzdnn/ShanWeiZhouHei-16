@@ -1,2 +1,8 @@
 # ShanWeiZhouHei-16
-基于KHドット兜町16衍生的中文像素字体 / A Chinese pixel font derived from KH Dot Kabutochou 16.
+
+==施工中== ==WORK IN PROGRESS== ==工事中==
+
+明天再来看看，说不定这里会加新东西呢……？
+
+Come back tomorrow, and you might find something new here!
+
