@@ -21,6 +21,9 @@
 <img width="2000" height="1000" alt="3横版" src="https://github.com/user-attachments/assets/b1871b0c-40e4-4e9c-888b-5490824eb208" />
 <img width="960" height="656" alt="扇尾胄黑 16 宣传图" src="https://github.com/user-attachments/assets/22d0d286-cf54-4f8e-9dcd-b7745b486141" />
 
+## **～补足～**
+
+本字体的保留名称为「扇尾胄黑 16」「ShanWeiZhouHei 16」，发布修改后的字体改名时不得使用以上保留名称。
 
 ## **～联络作者～**
 
