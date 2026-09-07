@@ -16,7 +16,7 @@
 
 ## **～详细介绍～**
 
-<img width="2000" height="1000" alt="1横版" src="https://github.com/user-attachments/assets/60fa7bea-7d0a-42fe-836c-339103a1af0d" />
+<img width="2000" height="1000" alt="1横版" src="https://github.com/user-attachments/assets/e7cd99f3-1b64-4695-87f5-11a372fafc62" />
 <img width="2000" height="1000" alt="2横版" src="https://github.com/user-attachments/assets/3178f4c2-1931-4eac-93ca-b2987b38b55d" />
 <img width="2000" height="1000" alt="3横版" src="https://github.com/user-attachments/assets/b1871b0c-40e4-4e9c-888b-5490824eb208" />
 <img width="960" height="656" alt="扇尾胄黑 16 宣传图" src="https://github.com/user-attachments/assets/22d0d286-cf54-4f8e-9dcd-b7745b486141" />
